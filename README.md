@@ -14,8 +14,10 @@ If you enter the `aiotime.FastForward` context manager (as in the `with` block i
 
 ## Getting started
 
-```python
-# TODO Add to pypi
+```bash
+pip install aiotime
+python
+>>> import aiotime
 ```
 
 ### Controlling `asyncio.sleep`
